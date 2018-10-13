@@ -6,3 +6,4 @@
 - Echo statement untuk menampilkan data
 - Arithmatic Operator
 - Komentar
+- Assignment Operator
