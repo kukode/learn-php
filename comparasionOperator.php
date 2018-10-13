@@ -13,8 +13,4 @@
  var_dump($a==$b);//hasil true karna variabel a dan b memiliki nilai yang sama 
 
 
-
-
-
-
 ?>
