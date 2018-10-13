@@ -7,3 +7,5 @@
 - Arithmatic Operator
 - Komentar
 - Assignment Operator
+- Comparasion Operator
+- Increment / Decrement Operator
