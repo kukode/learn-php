@@ -3,4 +3,4 @@
 - Variabel
 - Tipe Data
 - Constant
-- Echo statement untuk menampilakn data
+- Echo statement untuk menampilkan data
