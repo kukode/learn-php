@@ -5,3 +5,4 @@
 - Constant
 - Echo statement untuk menampilkan data
 - Arithmatic Operator
+- Komentar
