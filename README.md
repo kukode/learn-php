@@ -4,3 +4,4 @@
 - Tipe Data
 - Constant
 - Echo statement untuk menampilkan data
+- Arithmatic Operator
